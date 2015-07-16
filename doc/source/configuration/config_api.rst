@@ -7,7 +7,7 @@ While the Quickstart gives you enough to get going, there are many more features
 Service Name
 ------------
 
-Specify the base name of the service, as it is registered in the services control manager. This setting is optional and by default uses the namespace of the Program.cs file (well, basically, the calling assembly type namespace).
+Specify the base name of the service, **as it is registered in the services control manager**. This setting is optional and by default uses the namespace of the Program.cs file (well, basically, the calling assembly type namespace).
 
 .. sourcecode:: csharp
 
